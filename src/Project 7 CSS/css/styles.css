@@ -1,8 +1,13 @@
 p {
     font-family: 'Lucida Sans';
-    color: aqua;
+    color: black;
+    background-color: blanchedalmond;
 }
 h1,
 h2 {
+    color: blue;
     text-decoration-line: underline;
+}
+body{
+    background-color: aquamarine;
 }
