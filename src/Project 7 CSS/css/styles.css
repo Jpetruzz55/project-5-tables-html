@@ -1,13 +1,15 @@
-p {
-    font-family: 'Lucida Sans';
-    color: black;
-    background-color: blanchedalmond;
-}
 h1,
 h2 {
     color: blue;
     text-decoration-line: underline;
 }
-body{
+body {
     background-color: aquamarine;
+}
+input.submit {
+    color: chocolate;
+}
+input.submit:hover {
+    background-color: black;
+    color: ghostwhite;
 }
