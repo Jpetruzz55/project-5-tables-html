@@ -1,10 +1,14 @@
-h1,
-h2 {
+h1 {
     color: blue;
     text-decoration-line: underline;
 }
+h3 {
+    color: cadetblue;
+    font-family: 'Courier New', Courier, monospace;
+}
+
 body {
-    background-color: aquamarine;
+    background-color: tan;
 }
 input.submit {
     color: chocolate;
@@ -12,4 +16,8 @@ input.submit {
 input.submit:hover {
     background-color: black;
     color: ghostwhite;
+}
+
+.Jadav {
+    color: aliceblue;
 }
